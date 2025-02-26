@@ -19,7 +19,7 @@ This is the backend for a Linktree-like application, built with Node.js, Express
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/linktree-backend.git
+    git clone https://github.com/UB2002/Linktree-backend.git
     cd linktree-backend
     ```
 
